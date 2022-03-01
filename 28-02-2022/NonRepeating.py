@@ -1,4 +1,4 @@
-# write a program to find the odd occurences in a given list
+# write a program to find the non repeating elements in a given list
 
 n = int(input())
 list1 = []
